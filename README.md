@@ -19,8 +19,6 @@ Skills: C / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=utso185-h)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utso185-h&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/utso185-h)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=utso185-h)  
