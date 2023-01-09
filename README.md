@@ -21,8 +21,6 @@ Skills: C / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utso185-h&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=utso185-h)  
-
 ![GitHub metrics](https://metrics.lecoq.io/utso185-h)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=utso185-h)  
