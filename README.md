@@ -6,7 +6,7 @@
 
 
 
-Skills: C / CSS
+Skills: C / C++
 
 - 🌱 I’m currently learning C/C++ 
 - 👯 I’m looking to collaborate on Github 
