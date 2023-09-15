@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-09-16 at 01 52 03](https://github.com/utso185-h/utso185-h/assets/85325828/f0a7510f-af71-4a57-8649-e0e32ba28fc7 height='40'> )
+![WhatsApp Image 2023-09-16 at 01 52 03](https://github.com/utso185-h/utso185-h/assets/85325828/f0a7510f-af71-4a57-8649-e0e32ba28fc7)
 ![Profile views](https://gpvc.arturio.dev/utso185-h)
 
 
