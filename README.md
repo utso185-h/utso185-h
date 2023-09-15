@@ -9,7 +9,7 @@
 
 Skills: C / C++
 
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning C#/Python/css
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: royutso45@gmil.com 
 
