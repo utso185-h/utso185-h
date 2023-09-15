@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-09-16 at 01 52 03](https://github.com/utso185-h/utso185-h/assets/85325828/f0a7510f-af71-4a57-8649-e0e32ba28fc7)
+![WhatsApp Image 2023-09-16 at 01 52 03](https://github.com/utso185-h/utso185-h/assets/85325828/f0a7510f-af71-4a57-8649-e0e32ba28fc7 height='40'> )
 ![Profile views](https://gpvc.arturio.dev/utso185-h)
 
 
@@ -14,7 +14,7 @@ Skills: C / C++
 - 📫 How to reach me: royutso45@gmil.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utso185-h)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/threads.svg' alt='threads' height='40'>](https://www.threads.net/@utso_185h_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/utso_185h_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/roy8_utso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Utso-Roy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/utso185-h)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/roy8_utso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Utso-Roy)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
